@@ -6,7 +6,7 @@ A simpler footer element for your react app. Built with CSS Grid.
 
 If you are building your prototype App using react, this simple footer is for you. Very easy and quick to implement. It also has responsive modal view for privacy policy and easily customizable.
 
-![React Footer](demo/simple-react-footer.gif)
+![React Footer](demo/simple-footer-demo.gif)
 
 ## Installation
 
